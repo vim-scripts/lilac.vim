@@ -1,0 +1,22 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=442
+
+A mixture of navajo-night.vim and xian.vim (my previous post, too *pastel*).
+No support for cterm (GUI only).
+
+Tested on:
+ * LCD (advisable Contrast & Brightness @ ~25%)
+ * CRT (advisable Contrast & Brightness @ ~75%)
+
+Aims at:
+ * minimized colors allocation (12 colors only )
+ * reduced eye impact and save energy (no #FF, #F0 is the max authorized)
+ * better looking folding and diff mode than xian.vim (tastes may vary)
+ * while keeping most good looking colors from navajo-night (mostly the bg is different)
+
+Please feedback to christian_michon@yahoo.fr for color tweaking and suggestions for
+enhancements.
+
+Thanks to the authors of navajo-night.vim and Shantonu for his background color ;)
+
+Christian
+ZZ
